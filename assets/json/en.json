@@ -32,7 +32,7 @@
                 "R=RESTART M=MENU"
             ],
             "touch": {
-                "reset": [],
+                "restart": [],
                 "menu": []
             }
         },
